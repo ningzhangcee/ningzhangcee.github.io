@@ -11,26 +11,38 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numbered Text</title>
+    <style>
+        .numbered-text {
+            counter-reset: line-number;
+        }
+        .numbered-text p {
+            counter-increment: line-number;
+        }
+        .numbered-text p::before {
+            content: counter(line-number) ". ";
+            display: inline-block;
+            width: 2em; /* Adjust as needed */
+            text-align: right;
+            margin-right: 0.5em;
+            color: #333; /* Adjust as needed */
+        }
+    </style>
+</head>
+<body>
+    <div class="numbered-text">
+        <p>This is the first line of text.</p>
+        <p>This is the second line of text.</p>
+        <p>This is the third line of text.</p>
+    </div>
+</body>
+</html>
+
 
 
 
