@@ -7,8 +7,49 @@ author_profile: true
 
 {% include base_path %}
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Numbered and Justified Text</title>
+<style>
+    .numbered-text {
+        text-align: justify;
+    }
+</style>
+</head>
+<body>
+    <br>
+    <b>Research Interest</b>
+    <div class="numbered-text">
+        <ul>
+            <li>Artificial intelligence in geotechnical engineering</li>
+            <li>Computational solid mechanics</li>
+            <li>Intelligent geotechnical design</li>
+            <li>Management and construction of shield tunnelling</li>
+            
+        </ul>
+    </div>
+</body>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<body>
+    <b>Research works</b>
+    <div class="numbered-text">
+        <ol>
+            <b><li>Finite element-integrated neural network framework for elastic and elastoplastic solids</li></b>  
+            <p>The Physics-informed neural network method (PINN) has shown promise in resolving unknown physical fields in solid mechanics, owing to its success in solving various partial differential equations. Nonetheless, effectively solving engineering-scale boundary value problems, particularly heterogeneity and path-dependent elastoplasticity, remains challenging for PINN. To address these issues, this work proposes a hybrid computational framework integrating finite element method (FEM) with PINN, known as FEINN. This framework employs finite elements for domain discretization instead of collocation points and utilizes the Gaussian integration scheme and strain-displacement matrix to establish the weak-form governing equation instead of the automatic differentiation operator. By harnessing the strengths of FEM and PINN, this framework exhibits inherent advantages in handling complex boundary conditions with heterogeneous materials. For addressing path-dependent elastoplasticity in material nonlinear boundary value problems, an incremental scheme is developed to accurately compute the stress. The proposed FEINN represents a significant advancement in PINN-based computational modeling with remarkable characteristics. It is characterized by exceptional precision, the absence of collocation points, a minimal number of loss terms, and efficient training. By combining the strengths of FEM and PINN, FEINN has the potential to offer a powerful and versatile solution for complex engineering problems. <br></p>
+            <img src="https://example.com/image.jpg" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Zhang, N., Xu, K.P., Yin, Z-Y., Jin, Y. F., Li, K.Q. (2024) Finite element-integrated neural network framework for elastic and elastoplastic solids. Computer Methods in Applied Mechanics and Engineering, Accepted.<br></li>
+            </ul>
+          
+
+
+        </ol>
+    </div>
+</body>
+
+</html>
 
