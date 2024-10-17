@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Portfolio"
+title: ""
 permalink: /portfolio/
 author_profile: true
 ---
@@ -39,13 +39,54 @@ author_profile: true
         <ol>
             <b><li>Finite element-integrated neural network framework for elastic and elastoplastic solids</li></b>  
             <p>The Physics-informed neural network method (PINN) has shown promise in resolving unknown physical fields in solid mechanics, owing to its success in solving various partial differential equations. Nonetheless, effectively solving engineering-scale boundary value problems, particularly heterogeneity and path-dependent elastoplasticity, remains challenging for PINN. To address these issues, this work proposes a hybrid computational framework integrating finite element method (FEM) with PINN, known as FEINN. This framework employs finite elements for domain discretization instead of collocation points and utilizes the Gaussian integration scheme and strain-displacement matrix to establish the weak-form governing equation instead of the automatic differentiation operator. By harnessing the strengths of FEM and PINN, this framework exhibits inherent advantages in handling complex boundary conditions with heterogeneous materials. For addressing path-dependent elastoplasticity in material nonlinear boundary value problems, an incremental scheme is developed to accurately compute the stress. The proposed FEINN represents a significant advancement in PINN-based computational modeling with remarkable characteristics. It is characterized by exceptional precision, the absence of collocation points, a minimal number of loss terms, and efficient training. By combining the strengths of FEM and PINN, FEINN has the potential to offer a powerful and versatile solution for complex engineering problems. <br></p>
-            <img src="https://example.com/image.jpg" alt="Beautiful Image">
+            <img src="images/feinn.jpg" alt="Beautiful Image">
             <p>Reference:<br></p>
             <ul>
                 <li>Zhang, N., Xu, K.P., Yin, Z-Y., Jin, Y. F., Li, K.Q. (2024) Finite element-integrated neural network framework for elastic and elastoplastic solids. Computer Methods in Applied Mechanics and Engineering, Accepted.<br></li>
             </ul>
-          
 
+            <b><li>GeoLLM: A Specialized Large Language Model Framework for Intelligent Geotechnical Design</li></b>  
+            <p>Large language models (LLMs) have achieved remarkable success in various industrial and research fields, enhancing work efficiency by assisting machines in comprehending human language. In geotechnical design where extensive repetitive cross-checking of design codes consumes considerable time and labour, the utilization of LLMs to enhance design procedures has not been explored before. The challenge is to ensure that LLMs accurately comprehend professional geotechnical information from text and execute mathematical calculations correctly. This work makes the first attempt at developing a specialized LLM framework, GeoLLM, integrated with an innovative prompt engineering strategy to extract professional information from text and enable accurate mathematical calculations. The findings indicate the promising capacity of GeoLLM to address professional tasks in geotechnical design. <br></p>
+            <img src="images/LLM.gif" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Xu, H.R., Zhang, N.*, Yin, Z-Y., Atangana Njock, P.G. (2024) GeoLLM: A Specialized Large Language Model Framework for Intelligent Geotechnical Design. Computers and Geotechnics, Accepted.<br></li>
+            </ul>
+            
+            <b><li>Intelligent methods for predicting geological cross-section from sparse borehole data</li></b>  
+            <p>Determining the distribution of soil layers through borehole data is a pivotal aspect of planning and executing geotechnical engineering projects. Due to the complex spatial features of geological formation, it remains a significant challenge to accurately predict geological cross-sections from limited borehole data. We have developed a series of intelligent models to forecast geological cross-sections using sparse borehole data, e.g. multi-spatial receptive field (MSRF) XGBoost approach. MSRF XGBoost encompasses classification and identification modules. The classification module exclusively employs sparse borehole data to train a series of MSRF XGBoost models for soil classification. The identification module leverages all the trained models to generate potential predictions of unknown soil strata, automatically pinpointing the optimal one via Gaussian filtering and boundary similarity algorithms. A new boundary accuracy criterion is proposed to assess the prediction capacity of different models. <br></p>
+            <img src="images/Geology.jpg" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Qiu, Y., Zhang, N.*, Yin, Z., Wang, Y., Xu, C. and Zhang, P., (2024). Novel multi-spatial receptive field (MSRF) XGBoost method for predicting geological cross-section based on sparse borehole data. Engineering Geology, p.107604.<br></li>
+            </ul>
+
+            <b><li>Computer-vision method for segmentation and occlusion completion of packed granular particles</li></b>  
+            <p>Occlusions of granular particles in images significantly affect the accuracy of evaluating particle morphology for granular materials. In this work, a novel framework of SOLO-PCNet is proposed, which can automatically segment all the particles and predict the complete contours of the occluded particles in the densely packed materials. Firstly, the instance segmentation model SOLOv2 is trained for the prediction of all the detectable particles. Then a self-supervised learning algorithm PCNet-M is introduced for the inference of the complete contours of the occluded particles so that the prediction of SOLOv2 can be directly input to PCNet-M for the subsequent completion. Thereafter, the particle morphology characteristics including elongation, equivalent mean size, convexity, and circularity are automatically calculated. <br></p>
+            <img src="images/particle.jpg" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Zhang, H., Yin, Z.Y., Zhang, N.*, Wang, X. (2024) A rapid segmentation and occlusion completion method for packed granular particles considering uncertainty. Canadian Geotechnical Journal, Accepted.<br></li>
+                <li>Zhang, H., Yin, Z.Y., Zhang, N.*, Wang, X. Ding, Z., (2024). A scale-adaptive Mask R-CNN strategy for foreground particle segmentation and geometrical analysis of granular aggregates. Applied Soft Computing, p.111931.<br></li>
+            </ul>
+
+            <b><li>Deep learning methods for accurate and robust modelling of soil stress-strain response</li></b>  
+            <p>The representation of soil stress-strain response by using neural networks have received considerable attention as a promising data-driven method. Recently, a magnitude-related accuracy issue on stress-strain response was exposed for the neural network-based method, where the accuracy had an apparent decay when predicting the low-magnitude stress and strain data. This work proposes an enhanced deep learning method to tackle this issue by the fair reallocation of weight gradient. The enhanced method can significantly improve the accuracy, extrapolation capacity, robustness of neural network-based methods. A rationality investigation is also conducted via an insight into the weight gradient variation in neural networks. The effectiveness of this enhanced method is verified by three stress-strain responses of soil: a raw synthetic stress-strain response for accuracy assessment, a noised synthetic response with Gaussian noise for robustness, and a limited measured response from laboratory test. <br></p>
+            <img src="images/stress.jpg" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Zhang, N., Zhou, A., Jin, Y. F., Yin, Z-Y., Shen, S. L. (2023). An enhanced deep learning method for accurate and robust modelling of soil stress-strain response, Acta Geotechnica, 1-23. <br></li>
+                <li>Zhang, N., Shen, S. L., Zhou, A., Jin, Y. F. (2021). Application of LSTM approach for modelling stress–strain behaviour of soil. Applied Soft Computing, 100, 106959. <br></li>
+            </ul>
+
+            <b><li>Intelligent construction and management of shield tunnelling</li></b>  
+            <p> Shield tunneling is a crucial method in modern civil engineering and construction due to its numerous advantages and applications. Intelligent construction and management techniques can significantly enhance the efficiency, safety, and quality of shield tunnelling projects. We have developed a series of intelligent methods for the Intelligent construction and management of shield tunneling, involving ground settlement prediction, earth pressure prediction and regulation, posture attitude prediction, and computer-vision based automatic measurement.<br></p>
+            <img src="images/tunnel.jpg" alt="Beautiful Image">
+            <p>Reference:<br></p>
+            <ul>
+                <li>Zhang, N., Zhou, A., Pan Y., Shen, S. L., (2021). Measurement and prediction of tunnelling-induced ground settlement in karst region by using expanding deep learning method. Measurement 183, 109700. doi: 10.1016/j.measurement.2021.109700.<br></li>
+                <li>Zhang, N., Zhang, N.*, Zheng, Q., Xu, Y. S. (2022). Real-time prediction of shield moving trajectory during tunnelling using GRU deep neural network. Acta Geotechnica, 17(4), 1167-1182. https://doi.org/10.1007/s11440-021-01319-1<br></li>
+            </ul>
 
         </ol>
     </div>
