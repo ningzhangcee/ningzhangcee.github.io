@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 **Academic position**
-* 2022 ~ now, Research Assistant Professor, The Hong Kong Polytechnic University
+* 2022 ~ Present, Research Assistant Professor, The Hong Kong Polytechnic University
 * 2019 ~ 2022, Post-doctoral Research Fellow, Shantou University, China
 * 2017 ~ 2018, Visiting scholar, RMIT University, Australia
 
