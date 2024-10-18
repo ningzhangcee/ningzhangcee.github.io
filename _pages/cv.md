@@ -51,8 +51,8 @@ redirect_from:
 * Haoruo Xu, PhD candidate 
 * Hongchi Liu, PhD candidate 
 * Yashi Qiu, PhD candidate
-* Yu-Yeung Chung , Master, 2023
-* Ngai-Cheung WONG, FYP, 2023
+* Yu-Yeung Chung, Master, 2023
+* Ngai-Cheung Wong, FYP, 2023
 
 
 
