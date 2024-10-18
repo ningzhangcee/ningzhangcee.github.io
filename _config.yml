@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kaiqi LI"
 title_separator          : "-"
-name                     : &name "Ning ZHANG"
+name                     : &name "Kaiqi LI"
 description              : &description "personal description"
 url                      : https://ningzhangcee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,15 +24,15 @@ author:
   avatar           : "NingZHANG.png"
   name             : "Ning ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Research Assistant Professor"
+  bio              : "Postdoc"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "ning-cee.zhang@polyu.edu.hk" 
+  email            : "kqceeli@polyu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=Xo2pJM4AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=caPDwlQAAAAJ&hl=zh-CN"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0001-5302-600X"
   semantic         : # URL
