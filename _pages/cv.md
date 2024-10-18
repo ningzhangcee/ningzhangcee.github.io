@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 **Academic position**
 * 2022 ~ Present, Research Assistant Professor, The Hong Kong Polytechnic University
@@ -53,3 +52,4 @@ redirect_from:
 * Yashi Qiu, PhD candidate
 * Yu-Yeung Chung, Master, 2023
 * Ngai-Cheung Wong, FYP, 2023
+
