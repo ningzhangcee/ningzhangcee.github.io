@@ -7,7 +7,10 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
 
+Education
+======
 **Academic position**
 * 2022 ~ Present, Research Assistant Professor, The Hong Kong Polytechnic University
 * 2019 ~ 2022, Post-doctoral Research Fellow, Shantou University, China
