@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Dr Ning ZHANG"
+title: "About Dr. Kai-Qi LI"
 author_profile: true
 redirect_from: 
   - /about/
