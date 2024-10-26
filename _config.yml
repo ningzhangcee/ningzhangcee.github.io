@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "NingZHANG.png"
-  name             : "Ning ZHANG"
+  avatar           : "kaiqi_photo.png"
+  name             : "Kai-Qi LI"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
   location         : "Hong Kong"
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=caPDwlQAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : #"https://orcid.org/0000-0001-5302-600X"
+  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-5467-763X"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Kai-Qi-Li"
