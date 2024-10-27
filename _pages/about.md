@@ -9,7 +9,16 @@ redirect_from:
 
 
 <p style="text-align: justify;">
-* I am a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/cee), working under the supervision of Prof. [YIN Zhen-Yu](https://www.polyu.edu.hk/cee/people/academic-staff/prof-zhen-yu-yin). I earned my Ph.D. from Wuhan University in 2022, under the mentorship of Prof. [LIU Yong](https://scholar.google.com/citations?user=O6MLOGQAAAAJ&hl=zh-CN), and completed a visiting PhD at the [National University of Singapore](https://nus.edu.sg) under Prof. [LEE Fook-Hou](https://scholar.google.com/citations?user=hEHH6sYAAAAJ&hl=zh-CN&oi=sra), a fellow of the Singapore Academy of Engineering.
+  I am a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at 
+  <a href="https://www.polyu.edu.hk/cee" target="_blank">The Hong Kong Polytechnic University</a>, 
+  working under the supervision of Prof. 
+  <a href="https://www.polyu.edu.hk/cee/people/academic-staff/prof-zhen-yu-yin" target="_blank">YIN Zhen-Yu</a>. 
+  I earned my Ph.D. from Wuhan University in 2022, under the mentorship of Prof. 
+  <a href="https://scholar.google.com/citations?user=O6MLOGQAAAAJ&hl=zh-CN" target="_blank">LIU Yong</a>, 
+  and completed a visiting PhD at the 
+  <a href="https://nus.edu.sg" target="_blank">National University of Singapore</a> under Prof. 
+  <a href="https://scholar.google.com/citations?user=hEHH6sYAAAAJ&hl=zh-CN&oi=sra" target="_blank">LEE Fook-Hou</a>, 
+  a fellow of the Singapore Academy of Engineering.
   
 * My research interests involve:
 	Multi-field coupling theory
