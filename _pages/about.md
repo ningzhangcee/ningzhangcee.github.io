@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "About me"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/cee), working under the supervision of Prof. [YIN Zhen-Yu](https://www.polyu.edu.hk/cee/people/academic-staff/prof-zhen-yu-yin). I earned my PhD from Wuhan University in 2022 under the mentorship of Prof. [LIU Yong](https://scholar.google.com/citations?user=O6MLOGQAAAAJ&hl=zh-CN). I was also a visiting PhD at the [National University of Singapore](https://nus.edu.sg) under Prof. [LEE Fook-Hou](https://scholar.google.com/citations?user=hEHH6sYAAAAJ&hl=zh-CN&oi=sra), a fellow of the Singapore Academy of Engineering.
+# About Me
 
-My research interests involve:
+- I am a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/cee), working under the supervision of Prof. [YIN Zhen-Yu](https://www.polyu.edu.hk/cee/people/academic-staff/prof-zhen-yu-yin). I earned my PhD from Wuhan University in 2022 under the mentorship of Prof. [LIU Yong](https://scholar.google.com/citations?user=O6MLOGQAAAAJ&hl=zh-CN). I was also a visiting PhD at the [National University of Singapore](https://nus.edu.sg) under Prof. [LEE Fook-Hou](https://scholar.google.com/citations?user=hEHH6sYAAAAJ&hl=zh-CN&oi=sra), a fellow of the Singapore Academy of Engineering.
+
+- My research interests involve:
 - Multi-field coupling theory
 - Constitutive modelling of soils
 - Random finite element method
@@ -17,11 +19,11 @@ My research interests involve:
 - Uncertainty quantification and propagation
 - Machine learning in geotechnical engineering
 
-My work is particularly recognized in the field of artificial ground freezing (AGF), where I have developed advanced thermo-hydro-mechanical (THM) models for freezing processes in complex geological environments. This research earned me the 2023 Hubei Provincial Science & Technology Progress Award.
+- My work is particularly recognized in the field of artificial ground freezing (AGF), where I have developed advanced thermo-hydro-mechanical (THM) models for freezing processes in complex geological environments. This research earned me the 2023 Hubei Provincial Science & Technology Progress Award.
 
-I have published over 30 papers in leading international journals, with over 700 citations and an h-index of 15. I also serve as an Early-career Editorial Panel Member for the European Journal of Soil Science and regularly review for top-tier journals such as the Journal of Geotechnical and Geoenvironmental Engineering and Computers and Geotechnics.
+- I have published over 30 papers in leading international journals, with over 700 citations and an h-index of 15. I also serve as an Early-career Editorial Panel Member for the European Journal of Soil Science and regularly review for top-tier journals such as the Journal of Geotechnical and Geoenvironmental Engineering and Computers and Geotechnics.
 
-If you're interested in collaborating or learning more about my research, feel free to contact me!
+- If you're interested in collaborating or learning more about my research, feel free to contact me!
 
 ## Recent News
 
@@ -35,5 +37,5 @@ If you're interested in collaborating or learning more about my research, feel f
 - **Award**: I was awarded the 2023 Academic Innovation Award by Wuhan University in March 2023.
 - **Funding**: I received the Centrally Funded Postdoctoral Fellowship (HK$ 763,555) for my project on Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique in October 2022.
 - **Award**: I was recognized with the Excellence in Teaching Award by Wuhan University in March 2021.
-**Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can read more about the award on the official [announcement page](https://service.whu.edu.cn/info/1005/2179.htm) or [my personal profile](https://swrh.whu.edu.cn/info/1421/7582.htm).
+- **Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can find the [official announcement](https://service.whu.edu.cn/info/1005/2179.htm) or read more about it [here](https://swrh.whu.edu.cn/info/1421/7582.htm).
 - **Award**: I was awarded the *Top 10 Future Star Undergraduate* ([Link](https://sljzw.hhu.edu.cn/2019/0415/c11821a189595/page.htm)) by the China Water Resources Education Association in July 2016.
