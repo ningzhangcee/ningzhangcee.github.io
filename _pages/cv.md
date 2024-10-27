@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 **Academic position**
-* 2022 ~ Present, Research Assistant Professor, The Hong Kong Polytechnic University
-* 2019 ~ 2022, Post-doctoral Research Fellow, Shantou University, China
-* 2017 ~ 2018, Visiting scholar, RMIT University, Australia
+* 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
+* 2021–2022: Visiting Ph.D. in Geotechnic Engineering, National University of Singapore
+* •	2013–2017: B.E. in Water Resources & Hydropower Engineering, Northwest A&F University
 
 **Academic qualifications**
 * 2019, Ph.D. Civil Engineering, Shanghai Jiao Tong University, China
