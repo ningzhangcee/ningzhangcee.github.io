@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "About Dr. Kai-Qi LI"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
 I am a Postdoctoral Fellow in the Department of Civil and Environmental Engineering at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/cee), working under the supervision of Prof. [YIN Zhen-Yu](https://www.polyu.edu.hk/cee/people/academic-staff/prof-zhen-yu-yin). I earned my Ph.D. from Wuhan University in 2022, under the mentorship of Prof. [LIU Yong](https://scholar.google.com/citations?user=O6MLOGQAAAAJ&hl=zh-CN), and completed a visiting PhD at the [National University of Singapore](https://nus.edu.sg) under Prof. [LEE Fook-Hou](https://scholar.google.com/citations?user=hEHH6sYAAAAJ&hl=zh-CN&oi=sra), a fellow of the Singapore Academy of Engineering.
-
 
 My research interests involve:
 - Multi-field coupling theory
@@ -19,11 +17,23 @@ My research interests involve:
 - Uncertainty quantification and propagation
 - Machine learning in geotechnical engineering
 
-
 My work is particularly recognized in the field of artificial ground freezing (AGF), where I have developed advanced thermo-hydro-mechanical (THM) models for freezing processes in complex geological environments. This research earned me the 2023 Hubei Provincial Science & Technology Progress Award.
-
 
 I have published over 30 papers in leading international journals, with more than 700 citations and an h-index of 15. I also serve as an Early-career Editorial Panel Member for the [European Journal of Soil Science](https://bsssjournals.onlinelibrary.wiley.com/hub/journal/13652389/editorialboard.html) and regularly review for top-tier journals such as the Journal of Geotechnical and Geoenvironmental Engineering and Computers and Geotechnics.
 
 If you're interested in collaborating or learning more about my research, feel free to get in touch!
 
+## Recent News
+
+- **Award**: I was awarded the PolyU Distinguished Postdoctoral Fellow in October 2024.
+- **Research**: My recent paper, *“Towards an improved prediction of soil-freezing characteristic curve based on extreme gradient boosting model”* ([DOI: 10.1016/j.gsf.2024.101898](https://doi.org/10.1016/j.gsf.2024.101898)), was published in *Geoscience Frontiers* (JCR2023: Ranking 9/254, Top 5%) in July 2024.
+- **Research**: My paper, *“State of the art of coupled thermo–hydro-mechanical–chemical modelling for frozen soils”* ([DOI: 10.1007/s11831-024-10164-w](https://doi.org/10.1007/s11831-024-10164-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in July 2024.
+- **Research**: My paper, *“Investigation on evolution law of frozen wall thickness in artificial ground freezing under seepage conditions”* ([DOI: 10.1139/cgj-2023-0576](https://cdnsciencepub.com/doi/10.1139/cgj-2023-0576)), was published in *Canadian Geotechnical Journal* (Top 3 in Geotechnical Engineering) in June 2024.
+- **Research**: My paper, *“State-of-the-art constitutive modelling of frozen soils”* ([DOI: 10.1007/s11831-024-10102-w](https://doi.org/10.1007/s11831-024-10102-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in April 2024.
+- **Award**: I received the “2023 Hubei Province Science & Technology Progress Award” ([Link](https://www.hubei.gov.cn/zfwj/ezf/202407/t20240726_5280385.shtml)) for my work on Risk Prevention and Control of Artificial Ground Freezing Technique in Water-Rich Stratum, in April 2024.
+- **Career**: I joined the Early-career editorial panel member for the *European Journal of Soil Science* ([Link](https://bsssjournals.onlinelibrary.wiley.com/hub/journal/13652389/editorialboard.html)), in March 2024.
+- **Award**: I was awarded the 2023 Academic Innovation Award by Wuhan University, in March 2023.
+- **Funding**: I received the Centrally Funded Postdoctoral Fellowship (HK$ 763,555) for my project on Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique, in October 2022.
+- **Award**: I was recognized with the Excellence in Teaching Award by Wuhan University (awarded to only 10 graduate students university-wide), in March 2021.
+- **Award**: I was named one of Wuhan University's Top 10 Academic Stars ([Link](https://swrh.whu.edu.cn/info/1421/7582.htm)) (Only 10 graduate students, university-wide), in October 2020.
+- **Award**: I was awarded the *Top 10 Future Star Undergraduate* ([Link](https://sljzw.hhu.edu.cn/2019/0415/c11821a189595/page.htm)) by the China Water Resources Education Association, in July 2016.
