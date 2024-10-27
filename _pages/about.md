@@ -29,7 +29,7 @@ redirect_from:
 
 * I have published over 30 papers in leading international journals, with more than 700 citations and an h-index of 15. I also serve as an Early-career Editorial Panel Member for the <a href="https://bsssjournals.onlinelibrary.wiley.com/hub/journal/13652389/editorialboard.html" target="_blank">European Journal of Soil Science</a> and regularly review for top-tier journals such as the Journal of Geotechnical and Geoenvironmental Engineering and Computers and Geotechnics.
 
-* If you're interested in collaborating or learning more about my research, feel free to get in out!
+* If you're interested in collaborating or learning more about my research, feel free to reach out!
 
 </p>
 
