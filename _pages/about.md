@@ -19,7 +19,7 @@ redirect_from:
    3. *Random finite element method*  
    4. *Geotechnical risk and reliability*  
    5. *Uncertainty quantification and propagation*  
-   6. *Machine learning in geotechnical engineering*
+   6. *Machine learning in geotechnical engineering*  
         
 - If you're interested in collaborating or learning more about my research, feel free to contact me!
 
