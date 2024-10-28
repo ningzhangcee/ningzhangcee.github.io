@@ -15,7 +15,7 @@ redirect_from:
 
 - **My research interests involve**:  
    1. *Multi-field coupling theory*  
-   2. *Constitutive modeling of soils*  
+   2. *Constitutive modelling of soils*  
    3. *Random finite element method*  
    4. *Geotechnical risk and reliability*  
    5. *Uncertainty quantification and propagation*  
