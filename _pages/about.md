@@ -14,12 +14,32 @@ redirect_from:
 - I have published over 30 papers in leading international journals, with over 700 citations and an h-index of 15. I also serve as an Early-career Editorial Panel Member for the European Journal of Soil Science and regularly review for top-tier journals such as the Journal of Geotechnical and Geoenvironmental Engineering and Computers and Geotechnics.
 
 - My research interests involve:  
-   ✔ Multi-field coupling theory  
-   ✔ Constitutive modeling of soils  
-   ✔ Random finite element method  
-   ✔ Geotechnical risk and reliability  
-   ✔ Uncertainty quantification and propagation  
-   ✔ Machine learning in geotechnical engineering  
+     ✔ Multi-field coupling theory  
+     ✔ Constitutive modeling of soils  
+     ✔ Random finite element method  
+     ✔ Geotechnical risk and reliability  
+     ✔ Uncertainty quantification and propagation  
+     ✔ Machine learning in geotechnical engineering
+
+- **My research interests involve**:  
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Multi-field coupling theory</strong>
+   </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Constitutive modeling of soils</strong>
+   </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Random finite element method</strong>
+   </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Geotechnical risk and reliability</strong>
+   </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Uncertainty quantification and propagation</strong>
+   </div>
+   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
+     <strong>Machine learning in geotechnical engineering</strong>
+   </div>
 
 - If you're interested in collaborating or learning more about my research, feel free to contact me!
 
