@@ -27,15 +27,15 @@ redirect_from:
 
 ## Recent News
 
-- **Award**: I was awarded the PolyU Distinguished Postdoctoral Fellow in October 2024.
+- ★**Award**: I was awarded the PolyU Distinguished Postdoctoral Fellow in October 2024.
 - **Research**: My recent paper, *“Towards an improved prediction of soil-freezing characteristic curve based on extreme gradient boosting model”* ([DOI: 10.1016/j.gsf.2024.101898](https://doi.org/10.1016/j.gsf.2024.101898)), was published in *Geoscience Frontiers* (JCR2023: Ranking 9/254, Top 5%) in July 2024.
-- **Research**: My paper, *“State of the art of coupled thermo–hydro-mechanical–chemical modelling for frozen soils”* ([DOI: 10.1007/s11831-024-10164-w](https://doi.org/10.1007/s11831-024-10164-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in July 2024.
-- **Research**: My paper, *“Investigation on evolution law of frozen wall thickness in artificial ground freezing under seepage conditions”* ([DOI: 10.1139/cgj-2023-0576](https://cdnsciencepub.com/doi/10.1139/cgj-2023-0576)), was published in *Canadian Geotechnical Journal* (Top 3 in Geotechnical Engineering) in June 2024.
-- **Research**: My paper, *“State-of-the-art constitutive modelling of frozen soils”* ([DOI: 10.1007/s11831-024-10102-w](https://doi.org/10.1007/s11831-024-10102-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in April 2024.
-- **Award**: I received the “2023 Hubei Province Science & Technology Progress Award” ([Link](https://www.hubei.gov.cn/zfwj/ezf/202407/t20240726_5280385.shtml)) for my work on Risk Prevention and Control of Artificial Ground Freezing Technique in Water-Rich Stratum in April 2024.
+- ✔**Research**: My paper, *“State of the art of coupled thermo–hydro-mechanical–chemical modelling for frozen soils”* ([DOI: 10.1007/s11831-024-10164-w](https://doi.org/10.1007/s11831-024-10164-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in July 2024.
+- ✔**Research**: My paper, *“Investigation on evolution law of frozen wall thickness in artificial ground freezing under seepage conditions”* ([DOI: 10.1139/cgj-2023-0576](https://cdnsciencepub.com/doi/10.1139/cgj-2023-0576)), was published in *Canadian Geotechnical Journal* (Top 3 in Geotechnical Engineering) in June 2024.
+- ✔**Research**: My paper, *“State-of-the-art constitutive modelling of frozen soils”* ([DOI: 10.1007/s11831-024-10102-w](https://doi.org/10.1007/s11831-024-10102-w)), was published in *Archives of Computational Methods in Engineering* (JCR2023: Ranking 3/181) in April 2024.
+- ★**Award**: I received the “2023 Hubei Province Science & Technology Progress Award” ([Link](https://www.hubei.gov.cn/zfwj/ezf/202407/t20240726_5280385.shtml)) for my work on Risk Prevention and Control of Artificial Ground Freezing Technique in Water-Rich Stratum in April 2024.
 - **Career**: I joined the Early-career editorial panel member for the *European Journal of Soil Science* ([Link](https://bsssjournals.onlinelibrary.wiley.com/hub/journal/13652389/editorialboard.html)) in March 2024.
-- **Award**: I was awarded the 2023 Academic Innovation Award by Wuhan University in March 2023.
-- **Funding**: I received the Centrally Funded Postdoctoral Fellowship (HK$ 763,555) for my project on Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique in October 2022.
-- **Award**: I was recognized with the Excellence in Teaching Award by Wuhan University in March 2021.
-- **Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can find the [official announcement](https://service.whu.edu.cn/info/1005/2179.htm) or read more about it [here](https://risk.whu.edu.cn/info/1034/1301.htm).
-- **Award**: I was awarded the *Top 10 Future Star Undergraduate* ([Link](https://sljzw.hhu.edu.cn/2019/0415/c11821a189595/page.htm)) by the China Water Resources Education Association in July 2016.
+- ★**Award**: I was awarded the 2023 Academic Innovation Award by Wuhan University in March 2023.
+- ◊**Funding**: I received the Centrally Funded Postdoctoral Fellowship (HK$ 763,555) for my project on Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique in October 2022.
+- ★**Award**: I was recognized with the Excellence in Teaching Award by Wuhan University in March 2021.
+- ★**Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can find the [official announcement](https://service.whu.edu.cn/info/1005/2179.htm) or read more about it [here](https://risk.whu.edu.cn/info/1034/1301.htm).
+- ★**Award**: I was awarded the *Top 10 Future Star Undergraduate* ([Link](https://sljzw.hhu.edu.cn/2019/0415/c11821a189595/page.htm)) by the China Water Resources Education Association in July 2016.
