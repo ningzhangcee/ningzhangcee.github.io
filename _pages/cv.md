@@ -40,15 +40,11 @@ redirect_from:
    **Funded by:** The Hong Kong Polytechnic University  
    **Role:** Principal Investigator (PI)
 
----
-
 2. **Project:** Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils  
    **Funding Period:** 01/2024 – 12/2026  
    **Funding Amount:** HK$ 1,132,781  
    **Funded by:** Research Grants Council of Hong Kong: General Research Fund  
    **Role:** Main Participant
-
----
 
 3. **Project:** Study of multi-physics coupling mechanism of deep sea pipeline and soft marine organic deposits interaction, considering time and temperature effects  
    **Funding Period:** 01/2021 – 12/2024  
@@ -56,15 +52,11 @@ redirect_from:
    **Funded by:** Research Grants Council of Hong Kong: NSFC/RGC Joint Research Scheme  
    **Role:** Main Participant
 
----
-
 4. **Project:** Seepage failure mechanism and risk control of earth-rockfill dams considering spatial variability of geomaterials  
    **Funding Period:** 09/2020 – 01/2022  
    **Funding Amount:** CNY¥ 580,000  
    **Funded by:** National Natural Science Foundation of China  
    **Role:** Co-Investigator
-
----
 
 5. **Project:** Risk assessment for tunnel-induced subsidence under complex geological conditions using big data analysis  
    **Funding Period:** 01/2018 – 07/2021  
