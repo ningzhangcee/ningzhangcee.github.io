@@ -6,9 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+  
 
-
-**Educationn**
+**Education**
 * 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
 * 2021–2022: Visiting Ph.D. in Geotechnical Engineering, National University of Singapore
 * 2013–2017: B.E. in Water Resources & Hydropower Engineering, Northwest A&F University
