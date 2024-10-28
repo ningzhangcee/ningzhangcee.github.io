@@ -36,7 +36,7 @@ redirect_from:
 
 <h2>Research Fundings</h2>
 
-<div style="margin-bottom: 18px;">
+<div style="margin-bottom: 15px;">
   <p><strong>01/2023 – 12/2024</strong></p>
   <p><strong>Project:</strong> Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique</p>
   <p><strong>Funding:</strong> HK$ 763,555</p>
@@ -46,7 +46,7 @@ redirect_from:
 
 <hr style="border-top: 1px solid #ccc;"/>
 
-<div style="margin-bottom: 18px;">
+<div style="margin-bottom: 15px;">
   <p><strong>01/2024 – 12/2026</strong></p>
   <p><strong>Project:</strong> Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils</p>
   <p><strong>Funding:</strong> HK$ 1,132,781</p>
