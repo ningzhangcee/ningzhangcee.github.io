@@ -1,12 +1,11 @@
 ---
 layout: archive
-title: "CV"
+
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 <h2>Education</h2>
 * 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
 * 2021–2022: Visiting Ph.D. in Geotechnical Engineering, National University of Singapore
