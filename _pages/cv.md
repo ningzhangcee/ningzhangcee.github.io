@@ -7,15 +7,15 @@ redirect_from:
   - /resume
 ---
 
-**Educationn**
+<h2>Education</h2>
 * 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
 * 2021–2022: Visiting Ph.D. in Geotechnical Engineering, National University of Singapore
 * 2013–2017: B.E. in Water Resources & Hydropower Engineering, Northwest A&F University
 
-**Work Experience**
+<h2>Work Experience</h2>
 * 2022–Present: Postdoc Fellow, The Hong Kong Polytechnic University
   
-**Selected Awards**
+<h2>Selected Awards</h2>
 *	10/2024: PolyU Distinguished PDFs, The Hong Kong Polytechnic University
 *	03/2024: Hubei Provincial Science & Technology Progress Award (2023年湖北省科学技术进步奖), Hubei Provincial People's Government, China
 *	12/2023: Academic Innovation Award, Wuhan University
