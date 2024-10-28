@@ -36,51 +36,37 @@ redirect_from:
 
 <h2>Research Fundings</h2>
 
-<div style="margin-bottom: 15px;">
-  <p><strong>01/2023 – 12/2024</strong></p>
-  <p><strong>Project:</strong> Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique</p>
-  <p><strong>Funding:</strong> HK$ 763,555</p>
-  <p><strong>Funded by:</strong> The Hong Kong Polytechnic University</p>
-  <p><strong>Role:</strong> Principal Investigator (PI)</p>
-</div>
+<ol>
 
-<hr style="border-top: 1px solid #ccc;"/>
+<li><strong>Project:</strong> Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique<br>
+<strong>Funding Period:</strong> 01/2023 – 12/2024<br>
+<strong>Funding Amount:</strong> HK$ 763,555<br>
+<strong>Funded by:</strong> The Hong Kong Polytechnic University<br>
+<strong>Role:</strong> Principal Investigator (PI)</li>
 
-<div style="margin-bottom: 15px;">
-  <p><strong>01/2024 – 12/2026</strong></p>
-  <p><strong>Project:</strong> Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils</p>
-  <p><strong>Funding:</strong> HK$ 1,132,781</p>
-  <p><strong>Funded by:</strong> Research Grants Council of Hong Kong: General Research Fund</p>
-  <p><strong>Role:</strong> Main Participant</p>
-</div>
+<li><strong>Project:</strong> Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils<br>
+<strong>Funding Period:</strong> 01/2024 – 12/2026<br>
+<strong>Funding Amount:</strong> HK$ 1,132,781<br>
+<strong>Funded by:</strong> Research Grants Council of Hong Kong: General Research Fund<br>
+<strong>Role:</strong> Main Participant</li>
 
-<hr style="border-top: 1px solid #ccc;"/>
+<li><strong>Project:</strong> Study of multi-physics coupling mechanism of deep sea pipeline and soft marine organic deposits interaction, considering time and temperature effects<br>
+<strong>Funding Period:</strong> 01/2021 – 12/2024<br>
+<strong>Funding Amount:</strong> HK$ 1,154,954<br>
+<strong>Funded by:</strong> Research Grants Council of Hong Kong: NSFC/RGC Joint Research Scheme<br>
+<strong>Role:</strong> Main Participant</li>
 
-<div style="margin-bottom: 15px;">
-  <p><strong>01/2021 – 12/2024</strong></p>
-  <p><strong>Project:</strong> Study of multi-physics coupling mechanism of deep sea pipeline and soft marine organic deposits interaction, considering time and temperature effects</p>
-  <p><strong>Funding:</strong> HK$ 1,154,954</p>
-  <p><strong>Funded by:</strong> Research Grants Council of Hong Kong: NSFC/RGC Joint Research Scheme</p>
-  <p><strong>Role:</strong> Main Participant</p>
-</div>
+<li><strong>Project:</strong> Seepage failure mechanism and risk control of earth-rockfill dams considering spatial variability of geomaterials<br>
+<strong>Funding Period:</strong> 09/2020 – 01/2022<br>
+<strong>Funding Amount:</strong> CNY¥ 580,000<br>
+<strong>Funded by:</strong> National Natural Science Foundation of China<br>
+<strong>Role:</strong> Co-Investigator</li>
 
-<hr style="border-top: 1px solid #ccc;"/>
+<li><strong>Project:</strong> Risk assessment for tunnel-induced subsidence under complex geological conditions using big data analysis<br>
+<strong>Funding Period:</strong> 01/2018 – 07/2021<br>
+<strong>Funding Amount:</strong> CNY¥ 4,100,000<br>
+<strong>Funded by:</strong> NRF-NSFC 3rd Joint Research Grant (Earth Science)<br>
+<strong>Role:</strong> Co-Investigator</li>
 
-<div style="margin-bottom: 15px;">
-  <p><strong>09/2020 – 01/2022</strong></p>
-  <p><strong>Project:</strong> Seepage failure mechanism and risk control of earth-rockfill dams considering spatial variability of geomaterials</p>
-  <p><strong>Funding:</strong> CNY¥ 580,000</p>
-  <p><strong>Funded by:</strong> National Natural Science Foundation of China</p>
-  <p><strong>Role:</strong> Co-Investigator</p>
-</div>
-
-<hr style="border-top: 1px solid #ccc;"/>
-
-<div style="margin-bottom: 15px;">
-  <p><strong>01/2018 – 07/2021</strong></p>
-  <p><strong>Project:</strong> Risk assessment for tunnel-induced subsidence under complex geological conditions using big data analysis</p>
-  <p><strong>Funding:</strong> CNY¥ 4,100,000</p>
-  <p><strong>Funded by:</strong> NRF-NSFC 3rd Joint Research Grant (Earth Science)</p>
-  <p><strong>Role:</strong> Co-Investigator</p>
-</div>
+</ol>
  
