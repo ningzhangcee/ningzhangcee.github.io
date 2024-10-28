@@ -21,14 +21,46 @@ redirect_from:
      ✔ Uncertainty quantification and propagation  
      ✔ Machine learning in geotechnical engineering
 
-- **My research interests involve**:  
-   1. *Multi-field coupling theory*  
-   2. *Constitutive modeling of soils*  
-   3. *Random finite element method*  
-   4. *Geotechnical risk and reliability*  
-   5. *Uncertainty quantification and propagation*  
-   6. *Machine learning in geotechnical engineering*
+  - **My research interests involve**:  
+   ✔ Multi-field coupling theory  
+   ✔ Constitutive modeling of soils  
+   ✔ Random finite element method  
+   ✔ Geotechnical risk and reliability  
+   ✔ Uncertainty quantification and propagation  
+   ✔ Machine learning in geotechnical engineering
 
+- **My research interests involve**:  
+   ⭐ Multi-field coupling theory  
+   ⭐ Constitutive modeling of soils  
+   ⭐ Random finite element method  
+   ⭐ Geotechnical risk and reliability  
+   ⭐ Uncertainty quantification and propagation  
+   ⭐ Machine learning in geotechnical engineering  
+  
+- **My research interests involve**:  
+   📘 Multi-field coupling theory  
+   📘 Constitutive modeling of soils  
+   📘 Random finite element method  
+   📘 Geotechnical risk and reliability  
+   📘 Uncertainty quantification and propagation  
+   📘 Machine learning in geotechnical engineering
+
+  - **My research interests involve**:  
+   💎 Multi-field coupling theory  
+   💎 Constitutive modeling of soils  
+   💎 Random finite element method  
+   💎 Geotechnical risk and reliability  
+   💎 Uncertainty quantification and propagation  
+   💎 Machine learning in geotechnical engineering
+
+- **My research interests involve**:  
+   🔥 Multi-field coupling theory  
+   🔥 Constitutive modeling of soils  
+   🔥 Random finite element method  
+   🔥 Geotechnical risk and reliability  
+   🔥 Uncertainty quantification and propagation  
+   🔥 Machine learning in geotechnical engineering
+  
 - If you're interested in collaborating or learning more about my research, feel free to contact me!
 
 ## Recent News
