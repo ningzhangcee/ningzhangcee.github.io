@@ -1,16 +1,17 @@
 ---
 layout: archive
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-<h2>Education</h2>
+**Educationn**
 * 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
 * 2021–2022: Visiting Ph.D. in Geotechnical Engineering, National University of Singapore
 * 2013–2017: B.E. in Water Resources & Hydropower Engineering, Northwest A&F University
 
-<h2>Work Experience</h2>
+**Work Experience**
 * 2022–Present: Postdoc Fellow, The Hong Kong Polytechnic University
   
 <h2>Selected Awards</h2>
