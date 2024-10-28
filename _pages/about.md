@@ -22,24 +22,12 @@ redirect_from:
      ✔ Machine learning in geotechnical engineering
 
 - **My research interests involve**:  
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Multi-field coupling theory</strong>
-   </div>
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Constitutive modeling of soils</strong>
-   </div>
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Random finite element method</strong>
-   </div>
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Geotechnical risk and reliability</strong>
-   </div>
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Uncertainty quantification and propagation</strong>
-   </div>
-   <div style="border: 1px solid #ccc; padding: 10px; margin-bottom: 5px;">
-     <strong>Machine learning in geotechnical engineering</strong>
-   </div>
+   1. *Multi-field coupling theory*  
+   2. *Constitutive modeling of soils*  
+   3. *Random finite element method*  
+   4. *Geotechnical risk and reliability*  
+   5. *Uncertainty quantification and propagation*  
+   6. *Machine learning in geotechnical engineering*
 
 - If you're interested in collaborating or learning more about my research, feel free to contact me!
 
