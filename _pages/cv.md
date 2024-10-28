@@ -36,7 +36,7 @@ redirect_from:
 
 <h2>Research Fundings</h2>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 18px;">
   <p><strong>01/2023 – 12/2024</strong></p>
   <p><strong>Project:</strong> Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique</p>
   <p><strong>Funding:</strong> HK$ 763,555</p>
@@ -46,7 +46,7 @@ redirect_from:
 
 <hr style="border-top: 1px solid #ccc;"/>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 18px;">
   <p><strong>01/2024 – 12/2026</strong></p>
   <p><strong>Project:</strong> Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils</p>
   <p><strong>Funding:</strong> HK$ 1,132,781</p>
@@ -56,7 +56,7 @@ redirect_from:
 
 <hr style="border-top: 1px solid #ccc;"/>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
   <p><strong>01/2021 – 12/2024</strong></p>
   <p><strong>Project:</strong> Study of multi-physics coupling mechanism of deep sea pipeline and soft marine organic deposits interaction, considering time and temperature effects</p>
   <p><strong>Funding:</strong> HK$ 1,154,954</p>
@@ -66,7 +66,7 @@ redirect_from:
 
 <hr style="border-top: 1px solid #ccc;"/>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
   <p><strong>09/2020 – 01/2022</strong></p>
   <p><strong>Project:</strong> Seepage failure mechanism and risk control of earth-rockfill dams considering spatial variability of geomaterials</p>
   <p><strong>Funding:</strong> CNY¥ 580,000</p>
@@ -76,7 +76,7 @@ redirect_from:
 
 <hr style="border-top: 1px solid #ccc;"/>
 
-<div style="margin-bottom: 20px;">
+<div style="margin-bottom: 15px;">
   <p><strong>01/2018 – 07/2021</strong></p>
   <p><strong>Project:</strong> Risk assessment for tunnel-induced subsidence under complex geological conditions using big data analysis</p>
   <p><strong>Funding:</strong> CNY¥ 4,100,000</p>
