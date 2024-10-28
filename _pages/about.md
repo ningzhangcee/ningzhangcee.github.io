@@ -37,5 +37,5 @@ redirect_from:
 - **Award**: I was awarded the 2023 Academic Innovation Award by Wuhan University in March 2023.
 - **Funding**: I received the Centrally Funded Postdoctoral Fellowship (HK$ 763,555) for my project on Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique in October 2022.
 - **Award**: I was recognized with the Excellence in Teaching Award by Wuhan University in March 2021.
-- **Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can find the [official announcement](https://service.whu.edu.cn/info/1005/2179.htm) or read more about it [here](https://swrh.whu.edu.cn/info/1421/7582.htm).
+- **Award**: I was named one of Wuhan University's Top 10 Academic Stars in October 2020 (awarded to only 10 graduate students). You can find the [official announcement](https://service.whu.edu.cn/info/1005/2179.htm) or read more about it [here](https://risk.whu.edu.cn/info/1034/1301.htm).
 - **Award**: I was awarded the *Top 10 Future Star Undergraduate* ([Link](https://sljzw.hhu.edu.cn/2019/0415/c11821a189595/page.htm)) by the China Water Resources Education Association in July 2016.
