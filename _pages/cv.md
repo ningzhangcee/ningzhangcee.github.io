@@ -52,7 +52,7 @@ redirect_from:
 * Yu-Yeung Chung, Master, 2023
 * Ngai-Cheung Wong, FYP, 2023
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
