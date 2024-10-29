@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kaiqi LI"
+title                    : "Intelligent Geotechnics"
 title_separator          : "-"
-name                     : &name "Kaiqi LI"
+name                     : &name "Ning ZHANG"
 description              : &description "personal description"
-url                      : https://kqceeli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ningzhangcee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -21,23 +21,23 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "kaiqi_photo.jpg"
-  name             : "Kai-Qi LI"
+  avatar           : "NingZHANG.png"
+  name             : "Ning ZHANG"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc"
+  bio              : "Research Assistant Professor"
   location         : "Hong Kong"
   employer         : "The Hong Kong Polytechnic University"
   uri              : # URL
-  email            : "kqceeli@polyu.edu.hk" 
+  email            : "ning-cee.zhang@polyu.edu.hk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=caPDwlQAAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?user=Xo2pJM4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : #"https://orcid.org/my-orcid?orcid=0000-0001-5467-763X"
+  orcid            : "https://orcid.org/0000-0001-5302-600X"
   semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Kai-Qi-Li"
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -297,18 +297,18 @@ timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-feed
+  # - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jemoji
 
 
@@ -347,4 +347,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-google_analytics: G-M24EKRSQDC
+google_analytics: G-5G15FCB55K

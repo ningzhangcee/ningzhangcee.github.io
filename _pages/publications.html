@@ -1,159 +1,102 @@
 ---
 layout: archive
-
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-  
+
+{% if site.author.googlescholar %}
+  <div class="wordwrap">Dr. Zhang has published over 30 articles in top-tier international journals, with more than 1200 citations on Google Scholar and an h-index of 20. You can also find his articles on <a href="{{site.author.googlescholar}}">the Google Scholar profile</a>.</div>
+{% endif %}
+
+{% include base_path %}
+
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Publications</title>
-    <style>
-        /* 全局基础样式 */
-        body {
-            font-family: 'Helvetica Neue', Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 20px;
-            background-color: #f5f5f5;
-            color: #333;
-        }
-
-        h2 {
-            font-size: 1.2rem; /* 调整后的字体大小 */
-            color: #2980b9;
-        }
-
-        h3 {
-            font-size: 1.0rem;
-            margin: 0.8rem 0;
-            color: #2c3e50;
-        }
-
-        ol {
-            margin-left: 25px;
-        }
-
-        li {
-            margin-bottom: 1rem;
-        }
-
-        a {
-            color: #3498db;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        /* 调整小屏幕显示 */
-        @media (max-width: 768px) {
-            h2 {
-                font-size: 1rem; /* 在小屏幕上进一步缩小 */
-            }
-
-            h3 {
-                font-size: 0.9rem;
-            }
-
-            ol {
-                margin-left: 10px;
-            }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Numbered and Justified Text</title>
+<style>
+    .numbered-text {
+        text-align: justify;
+    }
+</style>
 </head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5G15FCB55K"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5G15FCB55K');
+</script>
 <body>
-  
-<!-- Journal Papers Section -->
-<section>
-  <h2>Journal Papers</h2>
+    <br>
+    <b>Under review</b>
+    <div class="numbered-text">
+        <ol>
+            <li><b>Zhang, N.</b>, Xu, K.P., Yin, Z-Y., Li, K.Q. (2024). Sampling and transfer learning strategies of finite element-integrated neural network for computational solid mechanics. Computer Methods in Applied Mechanics and Engineering, Under review.</li>
+            <li> Xu, K.P., <b>Zhang, N.</b>*, Yin, Z-Y., Li, K.Q. (2024). Finite element-integrated neural network for inverse analysis of elastic and elastoplastic boundary value problems. Computer Methods in Applied Mechanics and Engineering, Under review.</li>
+            <li> Xu, H.R., Yin, J.N., <b>Zhang, N.</b>* (2024). Transformer-based deformation measurement of underground structure from a single-camera video. Automation in Construction, Under review.</li>
+<!--        //<li> Xu, H.R., <b>Zhang, N.</b>*, Yin, Z-Y., Atangana Njock, P.G. (2024). Multimodal intelligent geotechnical design framework integrating multiple large language models. Geotechnique, Under review.</li> -->
+            <li> Liu, H.C., <b>Zhang, N.</b>*, Yin, Z-Y. (2024). Probabilistic stratigraphic modeling from sparse boreholes based on deep learning. Geotechnique, Under review.</li>
+            <li> Liu, H.C., <b>Zhang, N.</b>*, Yin, Z-Y., Wang, Y. (2024). Interpretation of subsurface stratigraphic variations from limited boreholes using Dual Bi-LSTM. Canadian Geotechnical Journal, Under review.</li>
+            
+        </ol>
+    </div>
+</body>
 
-  <!-- 2024 Publications -->
-  <h3>2024 Publications</h3>
-  <ol>
-    <li><strong>Li KQ</strong>, Yin ZY, Qi JL, Liu Y. (2024). State-of-the-art constitutive modelling of frozen soils. <i>Archives of Computational Methods in Engineering</i>. DOI: <a href="https://link.springer.com/article/10.1007/s11831-024-10102-w" target="_blank"><i class="fas fa-link"></i> 10.1007/s11831-024-10102-w</a> (Top 3%)</li>
-    <li><strong>Li KQ</strong>, Yin ZY. (2024). State of the art of coupled thermo-hydro-mechanical-chemical modelling for frozen soils. <i>Archives of Computational Methods in Engineering</i>. DOI: <a href="https://doi.org/10.1007/s11831-024-10164-w" target="_blank"><i class="fas fa-link"></i> 10.1007/s11831-024-10164-w</a> (Top 3%)</li>
-    <li><strong>Li KQ</strong>, He HL. (2024). Towards an improved prediction of soil-freezing characteristic curve based on extreme gradient boosting model. <i>Geoscience Frontiers</i>, 101898. DOI: <a href="https://doi.org/10.1016/j.gsf.2024.101898" target="_blank"><i class="fas fa-link"></i> 10.1016/j.gsf.2024.101898</a> (Top 5%)</li>
-    <li>Kang Q<sup>#</sup>, <strong>Li KQ</strong><sup>*</sup>, Fu JL, Liu Y. (2024). Hybrid LBM and machine learning algorithms for permeability prediction of porous media: A comparative study. <i>Computers and Geotechnics</i>, 168, 106163. DOI: <a href="https://doi.org/10.1016/j.compgeo.2024.106163" target="_blank"><i class="fas fa-link"></i> 10.1016/j.compgeo.2024.106163</a> (Top 10%)</li>
-    <li><strong>Li KQ</strong>, Yin ZY, Zhang N, Li J. (2024). A PINN-based modelling approach for hydromechanical behaviour of unsaturated expansive soils. <i>Computers and Geotechnics</i>, 169, 106174. DOI: <a href="https://doi.org/10.1016/j.compgeo.2024.106174" target="_blank"><i class="fas fa-link"></i> 10.1016/j.compgeo.2024.106174</a> (Highly Cited Paper, Top 10%)</li>
-    <li><strong>Li KQ</strong>, Yin ZY, Jin YF, Liu Y. (2024). Investigation on evolution law of frozen wall thickness in artificial ground freezing under seepage conditions. <i>Canadian Geotechnical Journal</i>. DOI: <a href="https://doi.org/10.1139/cgj-2023-0576" target="_blank"><i class="fas fa-link"></i> 10.1139/cgj-2023-0576</a></li>
-    <li><strong>Li KQ</strong>, Chen QM, Chen G. (2024). Scale effect on thermal conductivity of anisotropic geomaterials. <i>Bulletin of Engineering Geology and the Environment</i>, 83, 73. DOI: <a href="https://doi.org/10.1007/s10064-024-03571-7" target="_blank"><i class="fas fa-link"></i> 10.1007/s10064-024-03571-7</a></li>
-    <li>Zhang N, Xu KP<sup>#</sup>, Yin ZY, <strong>Li KQ</strong>, Jin YF. (2024). Finite element-integrated neural network framework for elastic and elastoplastic solids. <i>Computer Methods in Applied Mechanics and Engineering</i>. DOI: <a href="https://doi.org/10.1016/j.cma.2024.117474" target="_blank"><i class="fas fa-link"></i> 10.1016/j.cma.2024.117474</a> (Top 3%)</li>
-    <li>Chen G, Yang JS, Wang RH, <strong>Li KQ</strong>, Liu Y, Beer M. (2024). Response to discussion of “Seismic damage analysis due to near‐fault multipulse ground motion”. <i>Earthquake Engineering & Structural Dynamics</i>, 53(2), 861-866. DOI: <a href="https://doi.org/10.1002/eqe.4046" target="_blank"><i class="fas fa-link"></i> 10.1002/eqe.4046</a></li>
-    <li>Huang XW, Wang ZZ, Jiang MJ, <strong>Li KQ</strong>, Tang CX. (2024). Meso-scale investigation of the effects of groundwater seepage on the thermal performance of borehole heat exchangers. <i>Applied Thermal Engineering</i>, 121809. DOI: <a href="https://doi.org/10.1016/j.applthermaleng.2023.121809" target="_blank"><i class="fas fa-link"></i> 10.1016/j.applthermaleng.2023.121809</a> (Top 5%)</li>
-  </ol>
+<body>
+    <b>First-authored and Corresponding-authored papers</b>
+    <div class="numbered-text">
+        <ol>
+          <li> <b>Zhang, N.</b>, Xu, K.P., Yin, Z-Y., Jin, Y. F., Li, K.Q. (2024). Finite element-integrated neural network framework for elastic and elastoplastic solids. Computer Methods in Applied Mechanics and Engineering, Accepted.</li>
+          <li> Xu, H.R., <b>Zhang, N.</b>*, Yin, Z-Y., Atangana Njock, P.G. (2025). GeoLLM: A Specialized Large Language Model Framework for Intelligent Geotechnical Design. Computers and Geotechnics, 77, 106849. https://doi.org/10.1016/j.compgeo.2024.106849</li>
+          <li> Zhang, H., Yin, Z-Y., <b>Zhang, N.</b>*, Wang, X. (2024). A rapid segmentation and occlusion completion method for packed granular particles considering uncertainty. Canadian Geotechnical Journal, Accepted.</li>
+          <li> Qiu, Y.S., Yin, J.N., <b>Zhang, N.</b>*, Liu, H.C., Xu, C.J. (2024). Novel graph convolutional network for geological profile prediction using non-equidistant borehole data. Georisk: Assessment and Management of Risk for Engineered Systems and Geohazards, Accepted.</li>
+          <li> Zhang, H., Yin, Z-Y., <b>Zhang, N.</b>*, Wang, X. Ding, Z. (2024). A scale-adaptive Mask R-CNN strategy for foreground particle segmentation and geometrical analysis of granular aggregates. Applied Soft Computing, p.111931. https://doi.org/10.1016/j.asoc.2024.111931</li>
+          <li> Qiu, Y.S., <b>Zhang, N.</b>*, Yin, Z-Y, Wang, Y., Xu, C.J., Zhang, P. (2024). Novel multi-spatial receptive field (MSRF) XGBoost method for predicting geological cross-section based on sparse borehole data. Engineering Geology, p.107604. https://doi.org/10.1016/j.enggeo.2024.107604</li>
+          <li> Kong, H. Q., <b>Zhang, N.</b>* (2024). Risk assessment of water inrush accident during tunnel construction based on FAHP-I-TOPSIS. Journal of Cleaner Production, 141744. https://doi.org/10.1016/j.jclepro.2024.141744</li>
+          <li> <b>Zhang, N.</b>, Zhou, A., Jin, Y. F., Yin, Z-Y., Shen, S. L. (2023). An enhanced deep learning method for accurate and robust modelling of soil stress-strain response, Acta Geotechnica, 1-23. https://doi.org/10.1007/s11440-023-01813-8</li>
+          <li> Shen, S. L., <b>Zhang, N.</b>*, Zhou, A., Yin, Z-Y. (2022). Enhancement of neural networks with an alternative activation function tanhLU. Expert Systems with Applications, 199, 117181. https://doi.org/10.1016/j.eswa.2022.117181</li>
+          <li> Zhang, N., <b>Zhang, N.</b>*, Zheng, Q., Xu, Y. S. (2022). Real-time prediction of shield moving trajectory during tunnelling using GRU deep neural network. Acta Geotechnica, 17(4), 1167-1182. https://doi.org/10.1007/s11440-021-01319-1</li>
+          <li> Lin, S. S., <b>Zhang, N.</b>*, Zhou, A., Shen, S. L. (2022). Time-series prediction of shield movement performance during tunneling based on hybrid model. Tunnelling and Underground Space Technology, 119, 104245. https://doi.org/10.1016/j.tust.2021.104245</li>
+          <li> <b>Zhang, N.</b>, Zhou, A., Pan Y., Shen, S. L. (2021). Measurement and prediction of tunnelling-induced ground settlement in karst region by using expanding deep learning method. Measurement 183, 109700. doi: 10.1016/j.measurement.2021.109700. https://doi.org/10.1016/j.measurement.2021.109700</li>
+          <li> <b>Zhang, N.</b>, Shen, S. L., Zhou, A., Jin, Y. F. (2021). Application of LSTM approach for modelling stress–strain behaviour of soil. Applied Soft Computing, 100, 106959. https://doi.org/10.1016/j.asoc.2020.106959</li>
+          <li> Lu, S. L., <b>Zhang, N.</b>*, Shen, S. L., Zhou, A., Li, H. Z. (2020). A deep-learning method for evaluating shaft resistance of the cast-in-site pile on reclaimed ground using field data. Journal of Zhejiang University-Science A, 21(6), 496-508. https://doi.org/10.1631/jzus.A1900544</li>
+          <li> <b>Zhang, N.</b>, Shen, J. S., Lin, C., Arulrajah, A., Chai, J. C. (2019). Investigation of a large ground collapse and countermeasures during mountain tunnelling in Hangzhou: a case study. Bulletin of Engineering Geology and the Environment, 78(2), 991-1003. https://doi.org/10.1007/s10064-017-1098-0</li>
+          <li> <b>Zhang, N.</b>, Shen, J. S., Zhou, A., Arulrajah, A. (2018). Tunneling induced geohazards in mylonitic rock faults with rich groundwater: A case study in Guangzhou. Tunnelling and Underground Space Technology, 74, 262-272. https://doi.org/10.1016/j.tust.2017.12.021</li>
+          <li> <b>Zhang, N.</b>, Wu, H. N., Shen, J. S. L., Hino, T., Yin, Z-Y. (2017). Evaluation of the uplift behavior of plate anchor in structured marine clay. Marine Georesources Geotechnology, 35(6), 758-768. https://doi.org/10.1080/1064119X.2016.1240273</li>
+          <li> <b>Zhang, N.</b>, Shen, S. L., Wu, H. N., Chai, J. C., Xu, Y. S., Yin, Z-Y. (2015). Evaluation of effect of basal geotextile reinforcement under embankment loading on soft marine deposits. Geotextiles and Geomembranes, 43(6), 506-514. https://doi.org/10.1016/j.geotexmem.2015.05.005</li>
+        </ol>
+    </div>
+</body>
 
-<!-- 2023 Publications -->
-<h3>2023 Publications</h3>
-<ol start="11">
-    <li><strong>Li KQ</strong>, Yin ZY, Liu Y. (2023). Influences of spatial variability of hydrothermal properties on the freezing process in artificial ground freezing technique. <i>Computers and Geotechnics</i>, 159, 105448. DOI: <a href="https://doi.org/10.1016/j.compgeo.2023.105448" target="_blank"><i class="fas fa-link"></i> 10.1016/j.compgeo.2023.105448</a> (Highly Cited Paper, Top 10%)</li>
-    <li><strong>Li KQ</strong>, Yin ZY, Liu Y. (2023). An improved 3D microstructure reconstruction approach for porous media. <i>Acta Materialia</i>, 118472. DOI: <a href="https://doi.org/10.1016/j.actamat.2022.118472" target="_blank"><i class="fas fa-link"></i> 10.1016/j.actamat.2022.118472</a> (Top 5%)</li>
-    <li><strong>Li KQ</strong>, Chen G, Liu Y, Yin ZY. (2023). Scale effect on the apparent anisotropic hydraulic conductivity of geomaterials. <i>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering</i>, 9(3), 04023020. DOI: <a href="https://doi.org/10.1061/AJRUA6.RUENG-1070" target="_blank"><i class="fas fa-link"></i> 10.1061/AJRUA6.RUENG-1070</a></li>
-    <li><strong>Li KQ</strong>, Yin ZY, Zhang N, Liu Y. (2023). A data-driven method to model stress-strain behaviour of frozen soil considering uncertainty. <i>Cold Regions Science and Technology</i>, 103906. DOI: <a href="https://doi.org/10.1016/j.coldregions.2023.103906" target="_blank"><i class="fas fa-link"></i> 10.1016/j.coldregions.2023.103906</a></li>
-    <li><strong>Li KQ</strong>, Yin ZY, Liu Y. (2023). A hybrid SVR-BO model for predicting the soil thermal conductivity with uncertainty. <i>Canadian Geotechnical Journal</i>, 61(2), 258-274. DOI: <a href="https://doi.org/10.1139/cgj-2023-0105" target="_blank"><i class="fas fa-link"></i> 10.1139/cgj-2023-0105</a></li>
-    <li><strong>Li KQ</strong>, Horton R, He HL. (2023). Application of machine learning algorithms to model soil thermal diffusivity. <i>International Communications in Heat and Mass Transfer</i>, 149, 107092. DOI: <a href="https://doi.org/10.1016/j.icheatmasstransfer.2023.107092" target="_blank"><i class="fas fa-link"></i> 10.1016/j.icheatmasstransfer.2023.107092</a> (Top 5%)</li>
-    <li>Chen G, Yang JS, Wang RH, <strong>Li KQ</strong><sup>*</sup>, Liu Y, Beer M. (2023). Seismic damage analysis due to near‐fault multipulse ground motion. <i>Earthquake Engineering & Structural Dynamics</i>, 52(15), 5099-5116. DOI: <a href="https://doi.org/10.1002/eqe.4003" target="_blank"><i class="fas fa-link"></i> 10.1002/eqe.4003</a></li>
-    <li>Huang XW, Guo J, <strong>Li KQ</strong>, Wang ZZ, Wang W. (2023). Predicting the thermal conductivity of unsaturated soils considering wetting behavior: A meso‑scale study. <i>International Journal of Heat and Mass Transfer</i>, 204, 123853. DOI: <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2023.123853" target="_blank"><i class="fas fa-link"></i> 10.1016/j.ijheatmasstransfer.2023.123853</a> (Highly Cited Paper, Top 5%)</li>
-</ol>
+<body>
+    <b>Co-authored papers</b>
+    <div class="numbered-text">
+        <ol>
+          <li> Atangana Njock, P. G., Yin, Z-Y., <b>Zhang, N.</b> (2024). High-fidelity data augmentation for few-shot learning in jet grout injection applications. International Journal for Numerical and Analytical Methods in Geomechanics, 1-18.  https://doi.org/10.1002/nag.3862</li>
+          <li> Li, K. Q., Yin, Z-Y., <b>Zhang, N.</b>, &Li, J. (2024). A PINN-based modelling approach for hydromechanical behaviour of unsaturated expansive soils. Computers and Geotechnics, 169, 106174. https://doi.org/10.1016/j.compgeo.2024.106174</li>
+          <li> Li, K. Q., Yin, Z-Y., <b>Zhang, N.</b>, Liu, Y. (2023). A data-driven method to model stress-strain behaviour of frozen soil considering uncertainty. Cold Regions Science and Technology, 103906. https://doi.org/10.1016/j.coldregions.2023.103906</li>
+          <li> Zhang, J. X., <b>Zhang, N.</b>, Zhou, A., Shen, S. L. (2022). Numerical evaluation of segmental tunnel lining with voids in outside backfill. Underground Space , 7(5), 786-797. https://doi.org/10.1016/j.undsp.2021.12.007</li>
+          <li> Lin, S. S., Shen, S. L., <b>Zhang, N.</b>, Zhou, A. (2022). An extended TODIM-based model for evaluating risks of excavation system. Acta Geotechnica, 17(4), 1053-1069. https://doi.org/10.1007/s11440-021-01294-7</li>
+          <li> Lin, S. S., <b>Zhang, N.</b>, Zhou, A., Shen, S. L. (2022). Risk evaluation of excavation based on fuzzy decision-making model. Automation in Construction, 136, 104143. https://doi.org/10.1016/j.autcon.2022.104143</li>
+          <li> Lin, S. S., Shen, S. L., Zhou, A., <b>Zhang, N.</b> (2021). Ensemble model for risk status evaluation of excavation. Automation in Construction, 132, 103943. https://doi.org/10.1016/j.autcon.2021.103943</li>
+          <li> [Lin, S. S., Shen, S. L., <b>Zhang, N.</b>, Zhou, A. (2021). Modelling the performance of EPB shield tunnelling using machine and deep learning algorithms. Geoscience Frontiers, 12(5), 101177. https://doi.org/10.1016/j.gsf.2021.101177</li>
+          <li> Lin, S. S., Shen, S. L., <b>Zhang, N.</b>, Zhou, A. (2021). Comprehensive environmental impact evaluation for concrete mixing station (CMS) based on improved TOPSIS method. Sustainable Cities and Society, 69, 102838. https://doi.org/10.1016/j.scs.2021.102838</li>
+          <li> Ren, D. J., Shen, S. L., Cheng, W. C., <b>Zhang, N.</b>, Wang, Z. F. (2016). Geological formation and geo-hazards during subway construction in Guangzhou. Environmental Earth Sciences, 75(11), 1-14. https://doi.org/10.1007/s12665-016-5710-6</li>
+          <li> Xu, Y. S., Wu, H. N., Shen, J. S., <b>Zhang, N.</b> (2017). Risk and impacts on the environment of free-phase biogas in Quaternary deposits along the coastal region of Shanghai. Ocean Engineering, 137, 129-137. https://doi.org/10.1016/j.oceaneng.2017.03.051</li>
+        </ol>
+    </div>
+</body>
 
-<!-- Earlier Publications -->
-<h3>Earlier Publications</h3>
-<ol start="19">
-    <li><strong>Li KQ</strong><sup>*</sup>, Liu Y, Kang Q<sup>#</sup>. (2022). Estimating the thermal conductivity of soils using six machine learning algorithms. <i>International Communications in Heat and Mass Transfer</i>, 136, 106139. DOI: <a href="https://doi.org/10.1016/j.icheatmasstransfer.2022.106139" target="_blank"><i class="fas fa-link"></i> 10.1016/j.icheatmasstransfer.2022.106139</a> (Top 5%)</li>
-    <li><strong>Li KQ</strong><sup>*</sup>, Kang Q<sup>#</sup>, Nie JY, Huang XW. (2022). Artificial neural network for predicting the thermal conductivity of soils based on a systematic database. <i>Geothermics</i>, 103, 102416. DOI: <a href="https://doi.org/10.1016/j.geothermics.2022.102416" target="_blank"><i class="fas fa-link"></i> 10.1016/j.geothermics.2022.102416</a></li>
-    <li><strong>Li KQ</strong>, Miao Z<sup>#</sup>, Li DQ, Liu Y. (2022). Effect of mesoscale internal structure on effective thermal conductivity of anisotropic geomaterials. <i>Acta Geotechnica</i>, 17, 3553-3566. DOI: <a href="https://doi.org/10.1007/s11440-022-01458-z" target="_blank"><i class="fas fa-link"></i> 10.1007/s11440-022-01458-z</a> (Top 10%)</li>
-    <li><strong>Li KQ</strong>, Li DQ, Chen DH, Gu SX, Liu Y. (2021). A generalised model for effective thermal conductivity of soils considering porosity and mineral composition. <i>Acta Geotechnica</i>, 16, 3455-3466. DOI: <a href="https://doi.org/10.1007/s11440-021-01282-x" target="_blank"><i class="fas fa-link"></i> 10.1007/s11440-021-01282-x</a> (Top 10%)</li>
-    <li><strong>Li KQ</strong>, Li DQ, Liu Y. (2020). Meso-scale investigations on the effective thermal conductivity of multi-phase materials using the finite element method. <i>International Journal of Heat and Mass Transfer</i>, 151, 119383. DOI: <a href="https://doi.org/10.1016/j.ijheatmasstransfer.2020.119383" target="_blank"><i class="fas fa-link"></i> 10.1016/j.ijheatmasstransfer.2020.119383</a> (Top 10%)</li>
-    <li><strong>Li KQ</strong>, Li DQ, Li PT, Liu Y. (2019). Meso-mechanical investigations on the overall elastic properties of multi-phase construction materials using finite element method. <i>Construction and Building Materials</i>, 228, 116727. DOI: <a href="https://doi.org/10.1016/j.conbuildmat.2019.116727" target="_blank"><i class="fas fa-link"></i> 10.1016/j.conbuildmat.2019.116727</a> (Top 5%)</li>
-    <li>Wang F, <strong>Li KQ</strong>, Liu Y. (2022). Optimal water-cement ratio of cement-stabilised soil. <i>Construction and Building Materials</i>, 320, 126211. DOI: <a href="https://doi.org/10.1016/j.conbuildmat.2021.126211" target="_blank"><i class="fas fa-link"></i> 10.1016/j.conbuildmat.2021.126211</a> (Top 5%)</li>
-    <li>Liu Y, <strong>Li KQ</strong>, Li DQ, et al. (2022). Coupled thermal-hydraulic modelling of artificial ground freezing with uncertainties in pipe inclination and thermal conductivity. <i>Acta Geotechnica</i>, 17(1), 257-274. DOI: <a href="https://doi.org/10.1007/s11440-021-01221-w" target="_blank"><i class="fas fa-link"></i> 10.1007/s11440-021-01221-w</a> (Top 10%)</li>
-    <li>Chen G, <strong>Li KQ</strong>, Liu Y. (2021). Applicability of continuous, stationary, and discrete wavelet transforms in engineering signal processing. <i>Journal of Performance of Constructed Facilities</i>, 35(5), 04021060. DOI: <a href="https://doi.org/10.1061/(ASCE)CF.1943-5509.0001641" target="_blank"><i class="fas fa-link"></i> DOI: 10.1061/(ASCE)CF.1943-5509.0001641</a></li>
-</ol>
+</html>
 
-  <!-- Under Review Papers Section (Commented Out) -->
-  <!--
-  <h3>Under Review Papers</h3>
-  <ol>
-    <li><strong>Li KQ</strong>, Yin ZY. (2024). A unified elastoplastic constitutive model for frozen fine soils and sand. <i>Journal of Geotechnical and Geoenvironmental Engineering</i>. (Under Review)</li>
-    <li><strong>Li KQ</strong>, Yin ZY, Zhang N, Liu HC<sup>#</sup>. (2024). Physics-informed neural networks for solving steady-state temperature field of a single freezing pipe. <i>Canadian Geotechnical Journal</i>. (Under review)</li>
-    <li><strong>Li KQ</strong>, Yin ZY, Yang ZH, Liu Y. (2024). State of the art of mechanical behaviours of frozen soils. <i>Cold Regions Science and Technology</i>. (Under review)</li>
-    <li>Liu HC<sup>#</sup>, Zhang N, Yin Z-Y, Ruan ZJ, <strong>Li KQ</strong>. (2024). Probabilistic characterization of CPTu data using kriging-informed graph convolutional neural network. <i>Géotechnique</i>. (Under review)</li>
-    <li>Liu MM<sup>#</sup>, <strong>Li KQ</strong>, Liu Y. (2024). A simulation algorithm for crack propagation in rocks under frost heave pressure. <i>Engineering Failure Analysis</i>. (Under review)</li>
-    <li>Kang Q<sup>#</sup>, <strong>Li KQ</strong>, Cheng YG, Liu Y. (2024). Upscaling of hydraulic conductivity in heterogeneous three-dimensional formation, <i>ASCE-ASME Journal of Risk and Uncertainty in Engineering Systems, Part A: Civil Engineering</i>. (Under review)</li>
-    <li>Zhang N, Xu KP<sup>#</sup>, Yin ZY, <strong>Li KQ</strong>. (2024). Sampling and transfer learning strategies of finite element-integrated neural network for computational solid mechanics, <i>Computer Methods in Applied Mechanics and Engineering</i>. (Under review)</li>
-  </ol>
-  -->
-      
 
-<!-- Conference Papers Section -->
-<h2>Conference Papers</h2>
-<ol>
-  <li><strong>A physics-informed deep learning-FEM coupling framework for small-strain boundary value problems</strong><br><i>17th International Conference on Computational Plasticity</i>, Barcelona, Spain, Sep. 2023</li>
-  <li><strong>Coupled thermal-hydraulic modelling of artificial ground freezing with uncertainties in pipe inclination and thermal conductivity</strong><br><i>14th National Conference on Soil Mechanics & Geotechnical Engineering</i>, Wuhan, China, Apr. 2022</li>
-  <li><strong>Numerical investigations on anisotropy of apparent elastic modulus of porous media</strong><br><i>13th International Conference on Structural Safety & Reliability</i>, Shanghai, China, Jul. 2022</li>
-  <li><strong>Preliminary investigation on overall permeability of granular mixed materials</strong><br><i>Civil Infrastructures Confronting Severe Weathers & Climate Changes Conference</i>, Nanchang, China, Oct. 2021</li>
-  <li><strong>Estimating water tightness of overlapping jet-grout columns with geometric imperfections</strong><br><i>7th International Symposium on Reliability Engineering & Risk Management Programme</i>, Beijing, China, Oct. 2020</li>
-  <li><strong>Artificial ground freezing technique in tunnel construction considering uncertain drilling inaccuracy of freeze pipes</strong><br><i>29th European Safety & Reliability Conference</i>, Hannover, Germany, Sep. 2019<br><i>Recipient of Overseas Exchange Award</i></li>
-  <li><strong>Wavelet and Fourier transform in health monitoring of embedded structures</strong><br><i>13th International Conference on Applications of Statistics & Probability in Civil Engineering</i>, Seoul, South Korea, May 2019</li>
-</ol>
 
-<!-- Patents Section -->
-<h2>Patents</h2>
-<ol>
-  <li><strong>2024</strong>: Digital Twin-Based Monitoring and Early Warning System for Highway Slopes, Patent No. ZL202211300070.X</li>
-  <li><strong>2022</strong>: Finite Element Method for Evaluating the Impact of Pile Diameter Uncertainty on the Water-Tightness of Jet-Grouted Walls, Patent No. ZL202010223606.7</li>
-  <li><strong>2022</strong>: A Novel Method for Assessing the Impact of Positioning Error on the Anti-Seepage Performance of Deep Mixing Piles via Monte Carlo Simulation, Patent No. ZL202010223110.X</li>
-  <li><strong>2021</strong>: Method for Evaluating the Effective Permeability of Multi-Phase Materials, Patent No. ZL201911044057.0</li>
-</ol>
 
-<!-- Software Section -->
-<h2>Software</h2>
-<ol>
-  <li><strong>2021</strong>: Visualization Software for Simulating the 2D Mesostructure of Geomaterials, Registration No. 2021SR1046410</li>
-  <li><strong>2021</strong>: Computational Platform for Calculating the Effective Transport Properties Based on 3D Node Information of Geomaterials, Registration No. 2021SR1046448</li>
-  <li><strong>2019</strong>: Calculation Software for Determining the Effective Elastic Modulus of Composites, Registration No. 2019SR1182538</li>
-</ol>
+
+

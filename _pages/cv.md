@@ -1,70 +1,54 @@
 ---
 layout: archive
 title: "CV"
-
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+**Academic position**
+* 2022 ~ Present, Research Assistant Professor, The Hong Kong Polytechnic University
+* 2019 ~ 2022, Post-doctoral Research Fellow, Shantou University, China
+* 2017 ~ 2018, Visiting scholar, RMIT University, Australia
+
+**Academic qualifications**
+* 2019, Ph.D. Civil Engineering, Shanghai Jiao Tong University, China
+* 2013, B.Eng. Civil Engineering, Southeast University, China
   
+**Teaching experience**
+* 2022~2024, CSE40403 Geotechnical design, for Undergraduate students, The Hong Kong Polytechnic University
+* 2022~2024, CSE1002 Introduction to AI and Data Analytics for Civil Engineering, for Undergraduate students, The Hong Kong Polytechnic University
 
-**Education**
-* 2017–2022: Ph.D. in Hydraulic Structure Engineering, Wuhan University
-* 2021–2022: Visiting Ph.D. in Geotechnical Engineering, National University of Singapore
-* 2013–2017: B.E. in Water Resources & Hydropower Engineering, Northwest A&F University
-
-**Work Experience**
-* 2022–Present: Postdoc Fellow, The Hong Kong Polytechnic University
+**Research fundings**
+* General Research Fund, Research Grants Council of Hong Kong, 15220423, Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils, 01 Jan 24-31 Dec 26, $1,132,781, PI
+* NSFC Young Scientists Fund, National Natural Science Foundation of China (NSFC), 52308377, Intelligent prediction method for shield machine attitude in complex soils based on physics-informed muti-fidelity neural network approach, 01 Jan 24-31 Dec 26, RMB 300,000, PI
+* The Hong Kong Polytechnic University, P0043880, Identifying the kinetic behavior of shield machine in complex soils and establishing a corresponding simulation database via FEM, 31 Dec 2022 - 30 Dec 2024, $ 250,000, PI
   
-**Selected Awards**
-*	10/2024: PolyU Distinguished PDFs, The Hong Kong Polytechnic University
-*	03/2024: Hubei Provincial Science & Technology Progress Award (2023年湖北省科学技术进步奖), Hubei Provincial People's Government, China
-*	12/2023: Academic Innovation Award, Wuhan University
-*	10/2022: Centrally Funded Postdoctoral Fellowship, The Hong Kong Polytechnic University
-*	06/2022: Outstanding Graduate Award, Wuhan University
-*	03/2021: Excellence in Teaching Award, Wuhan University
-*	10/2020: Top 10 Academic Star, Wuhan University (University-wide, only 10 recipients)
-*	12/2019: YuGang & SongXiao Scholarship, Wuhan University (Top 1%, University-wide)
-*	10/2019: Second Prize, Graduate Academic Report Competition, 10th National Youth Conference on Geomechanics & Geotechnical Engineering, Chinese Institution of Soil Mechanics and Geotechnical Engineering
-*	06/2019: First Prize, 12th Civil Engineering & Mechanics Graduate Academic Forum, Wuhan University  
-*	04/2019: Second Prize, Doctoral Academic Forum, Tsinghua University
-*	12/2018: Excellent Student Cadre, Wuhan University Outstanding Graduate Student, Wuhan University
-*	09/2018: First Class Scholarship, Wuhan University
-*	12/2017: Excellent New Student Award, Wuhan University
-*	12/2016: National Scholarship, Ministry of Education of the People's Republic of China
-*	07/2016: Top 10 Future Star Undergraduate, Ministry of Education of the People's Republic of China (Nationwide, only 10 recipients)
-
-
+**Invited talks**
+* A Physics-informed Deep Learning-FEM Coupling Framework for Small-Strain Boundary Value Problem, 07-September-2023, COMPLAS 2023 Conference, Barcelona, Spain.
+* Deep learning-based method for multi-scale stress-strain relationship modeling, 4th Symposium of Chinese Constitutive Model of Rock and Soils, 13-Novermber-2020. Nanjing, China
+* A deep learning approach for stress and strain modeling of soils. Machine learning and Big data in Geoscience and Geotechnical, 08-January-2022. Chongqing, China
+* An approach to construct activation function in deep learning. 4th International Conference on Information Technology in Geo-Engineering, 04-August-2022, Singapore.
   
-**Research Fundings**
+**Editorship and awards**
+* Early Career Board Member, Smart Construction and Sustainable Cities, 2023
+* Member of Chinese Subsociety for Intelligent Monitoring in Geoengineering (since 2020)
+* “2020 China Excellent Patent Award” by China National Intellectual Property Administration, 2021, Chinese Patent No. ZL.201610805301.0.
+* “Teaching achievements Awards” by Shantou University, 2021
+* “Outstanding Ph.D. candidate Scholarship” by Shanghai Jiao Tong University, 2016 
+* “Outstanding Students Award” by Southeast University, 2010
+  
+**Conference Organization**
+* Secretary, International Symposium on Innovations in Geotechnical Engineering towards Sustainability, November 30 - December 4, 2023, Hong Kong
+* Secretary, The 17th international conference of the International Association for Computer Methods and Advances in Geomechanics, Dec 18 - 21, 2025, Hong Kong
 
-1. **Project:** Thermo-hydro-mechanical (THM) modelling for artificial ground freezing technique  
-   Funding Period: 01/2023 – 12/2024  
-   Funding Amount: HK$ 763,555  
-   Funded by: The Hong Kong Polytechnic University  
-   Role: Principal Investigator (PI)
+**Supervision**
+* Kunpeng Xu, PhD candidate
+* Yue Yu, PhD candidate
+* Haoruo Xu, PhD candidate 
+* Hongchi Liu, PhD candidate 
+* Yashi Qiu, PhD candidate
+* Yu-Yeung Chung, Master, 2023
+* Ngai-Cheung Wong, FYP, 2023
 
-2. **Project:** Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils  
-   Funding Period: 01/2024 – 12/2026  
-   Funding Amount: HK$ 1,132,781  
-   Funded by: Research Grants Council of Hong Kong: General Research Fund  
-   Role: Main Participant
-
-3. **Project:** Study of multi-physics coupling mechanism of deep sea pipeline and soft marine organic deposits interaction, considering time and temperature effects  
-   Funding Period: 01/2021 – 12/2024  
-   Funding Amount: HK$ 1,154,954  
-   Funded by: Research Grants Council of Hong Kong: NSFC/RGC Joint Research Scheme  
-   Role: Main Participant
-
-4. **Project:** Seepage failure mechanism and risk control of earth-rockfill dams considering spatial variability of geomaterials  
-   Funding Period: 09/2020 – 01/2022  
-   Funding Amount: CNY¥ 580,000  
-   Funded by: National Natural Science Foundation of China  
-   Role: Co-Investigator
-
-5. **Project:** Risk assessment for tunnel-induced subsidence under complex geological conditions using big data analysis  
-   Funding Period: 01/2018 – 07/2021  
-   Funding Amount: CNY¥ 4,100,000  
-   Funded by: NRF-NSFC 3rd Joint Research Grant (Earth Science)  
-   Role: Co-Investigator
