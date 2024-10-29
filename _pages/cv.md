@@ -52,3 +52,24 @@ redirect_from:
 * Yu-Yeung Chung, Master, 2023
 * Ngai-Cheung Wong, FYP, 2023
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>    
+    
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-5G15FCB55K"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-5G15FCB55K');
+    </script>
+</head>
+<body>
+    <!-- Your Markdown Content Goes Here -->
+</body>
+</html>
