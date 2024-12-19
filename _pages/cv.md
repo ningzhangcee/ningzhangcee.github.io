@@ -26,7 +26,8 @@ redirect_from:
 * The Hong Kong Polytechnic University, P0043880, Identifying the kinetic behavior of shield machine in complex soils and establishing a corresponding simulation database via FEM, 31 Dec 2022 - 30 Dec 2024, $ 250,000, PI
   
 **Invited talks**
-* A Physics-informed Deep Learning-FEM Coupling Framework for Small-Strain Boundary Value Problem, 07-September-2023, COMPLAS 2023 Conference, Barcelona, Spain.
+* Finite element-integrated neural network framework for elastic and elastoplastic solids, Asia-Pacific conferences on unsaturated soils, 04-06 December 2024, Melbourne, Australia.
+* A Physics-informed Deep Learning-FEM Coupling Framework for Small-Strain Boundary Value Problem, COMPLAS 2023 Conference, 07-September-2023, Barcelona, Spain.
 * Deep learning-based method for multi-scale stress-strain relationship modeling, 4th Symposium of Chinese Constitutive Model of Rock and Soils, 13-Novermber-2020. Nanjing, China
 * A deep learning approach for stress and strain modeling of soils. Machine learning and Big data in Geoscience and Geotechnical, 08-January-2022. Chongqing, China
 * An approach to construct activation function in deep learning. 4th International Conference on Information Technology in Geo-Engineering, 04-August-2022, Singapore.
