@@ -35,7 +35,7 @@ redirect_from:
   
 **Editorship and awards**
 * Early Career Board Member, Smart Construction and Sustainable Cities, 2023
-* Member of Chinese Subsociety for Intelligent Monitoring in Geoengineering (since 2020)
+* Member of Chinese Subsociety for Intelligent Monitoring in Geoengineering, 2020-2024
 * “2020 China Excellent Patent Award” by China National Intellectual Property Administration, 2021, Chinese Patent No. ZL.201610805301.0.
 * “Teaching achievements Awards” by Shantou University, 2021
 * “Outstanding Ph.D. candidate Scholarship” by Shanghai Jiao Tong University, 2016 
@@ -51,7 +51,7 @@ redirect_from:
 * Haoruo Xu, PhD. candidate 
 * Hongchi Liu, PhD. candidate 
 * Yashi Qiu, PhD. candidate
-* Haoran Zhang, PhD.
+* Haoran Zhang, PhD., 2023
 * Yu-Yeung Chung, Master, 2023
 * Ngai-Cheung Wong, FYP, 2023
 
