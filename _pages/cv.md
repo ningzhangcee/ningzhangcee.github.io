@@ -53,7 +53,11 @@ redirect_from:
 * Yashi Qiu, PhD. candidate
 * Haoran Zhang, PhD., 2023
 * Yu-Yeung Chung, Master, 2023
-* Ngai-Cheung Wong, FYP, 2023
+* SU Haibin, FYP, 2023
+* CHOW Tsz Ying, FYP, 2023
+* HANDOYO Michael Stanley, FYP, 2023
+* CHOW Kin Long, FYP, 2024
+* PENG Yuxin, FYP, 2024
 
 
 <html lang="en">
