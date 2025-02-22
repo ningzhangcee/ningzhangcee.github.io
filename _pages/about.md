@@ -33,8 +33,5 @@ Dr. Zhang is a research assistant professor in the department of Civil and Envir
 </body>
 </html>
 
-<div style="text-align: center; margin-top: 40px;">
-    <a href="https://clustrmaps.com/site/1c4ip" title="Visitor Map">
-        <img src="//www.clustrmaps.com/map_v2.png?d=gdq25fKq62XQrXLqW06LUMP2yVIVS0rDEUt3XHYxqU8&cl=ffffff" />
-    </a>
-</div>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=590&t=n&d=gdq25fKq62XQrXLqW06LUMP2yVIVS0rDEUt3XHYxqU8&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
