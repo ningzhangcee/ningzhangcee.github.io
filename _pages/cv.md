@@ -18,13 +18,13 @@ redirect_from:
 * 2013, B.Eng. Civil Engineering, Southeast University, China
   
 **Teaching experience**
-* 2022~2024, CSE40403 Geotechnical design, for Undergraduate students, The Hong Kong Polytechnic University
-* 2022~2024, CSE1002 Introduction to AI and Data Analytics for Civil Engineering, for Undergraduate students, The Hong Kong Polytechnic University
+* 2022~2025, CSE40403 Geotechnical design, for Undergraduate students, The Hong Kong Polytechnic University
+* 2022~2025, CSE1002 Introduction to AI and Data Analytics for Civil Engineering, for Undergraduate students, The Hong Kong Polytechnic University
 
 **Research fundings**
-* Industrial Fund, Guangdong Provincial Communications Group Co.,Ltd, An intelligent warning system for multi-source geological hazards under climate change for Shantou-Meizhou highway construction, 01 Mar 25 - 31 Dec 28, CNY $1,967,531, PI
+* Industrial Fund, Guangdong Provincial Communications Group Co.,Ltd, An intelligent warning system for multi-source geological hazards under climate change for Shantou-Meizhou highway construction, 01 Mar 25 - 31 Dec 28, CNY ¥1,967,531, PI
 * General Research Fund, Research Grants Council of Hong Kong, 15220423, Physics-informed multi-fidelity neural network approach for intelligent rectification of shield machine attitude in layered soils, 01 Jan 24 - 31 Dec 26, $1,132,781, PI
-* NSFC Young Scientists Fund, National Natural Science Foundation of China (NSFC), 52308377, Intelligent prediction method for shield machine attitude in complex soils based on physics-informed muti-fidelity neural network approach, 01 Jan 24 - 31 Dec 26, CNY $300,000, PI
+* NSFC Young Scientists Fund, National Natural Science Foundation of China (NSFC), 52308377, Intelligent prediction method for shield machine attitude in complex soils based on physics-informed muti-fidelity neural network approach, 01 Jan 24 - 31 Dec 26, CNY ¥300,000, PI
 * The Hong Kong Polytechnic University, P0043880, Identifying the kinetic behavior of shield machine in complex soils and establishing a corresponding simulation database via FEM, 31 Dec 2022 - 30 Dec 2024, $ 250,000, PI
   
 **Invited talks**
