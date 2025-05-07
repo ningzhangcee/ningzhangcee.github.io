@@ -36,8 +36,9 @@ redirect_from:
 * An approach to construct activation function in deep learning. 4th International Conference on Information Technology in Geo-Engineering, 04-August-2022, Singapore.
   
 **Editorship and awards**
+* Young Editorial Board Member, Journal of Zhejiang University-SCIENCE A, 2025
+* Early Career Editorial Board Members, Smart Construction and Sustainable Cities, 2023
 * First Prize of Guangdong Civil Engineering and Architecture Society Science and Technology Award, "Research and application of key intelligent technologies for shield tunneling in composite strata", No. 2024-1-X17-D, 2024
-* Early Career Board Member, Smart Construction and Sustainable Cities, 2023
 * Member of Chinese Subsociety for Intelligent Monitoring in Geoengineering, 2020-2024
 * “2020 China Excellent Patent Award” by China National Intellectual Property Administration, 2021, Chinese Patent No. ZL.201610805301.0.
 * “Teaching achievements Awards” by Shantou University, 2021
